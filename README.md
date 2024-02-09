@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Zipdatei entpacken und dem Ordner einfügen bei VS-Code und den Zipordner aus VS-Code löschen.
+
 ## Available Scripts
 
 In the project directory, you can run:
